@@ -1,2 +1,0 @@
--it imposable to move from cell to the same cell so discard the diagonals
-n^2-n=150
