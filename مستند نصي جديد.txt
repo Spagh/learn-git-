@@ -1,1 +1,5 @@
 git config --global user.email "
+<<<<<<< HEAD
+=======
+123
+>>>>>>> 03a2740257a6e93be78b0fe2051c52834f67a89e
